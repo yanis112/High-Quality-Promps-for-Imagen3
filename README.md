@@ -20,3 +20,6 @@ Hyper-detailed VFX bring the scene to life— splinters glisten in sunlight, dus
 
 # Prompt6:
 An epic, high-octane scene featuring a massive, kilometers-long spatial vessel shaped like a traditional Christian cross, with an elongated vertical branch and precise angles. The colossal vessel soars away from Earth, which glows magnificently in the background with vibrant blues and swirling clouds. Explosive VFX light up the vessel— glowing conduits, shimmering reflections, and intense thrusters firing as it departs into the dark void. The action is captured with sweeping, dramatic angles that highlight the vessel’s immense size against the vast beauty of space. Michael Bay-style visuals deliver intense, stunning effects, from glinting metal and dazzling energy trails to the dynamic movement of the majestic cross-shaped vessel leaving Earth in spectacular fashion.
+
+
+This is a new line added by the Python script.
