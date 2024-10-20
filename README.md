@@ -35,3 +35,20 @@ Deep focus and axial cuts are used to intensify the exchange, bringing the viewe
 
 # Prompt9:
 breathtaking, high-quality photograph of an alien robot, its head inspired by high-tech motorcycle motors. The elongated head is composed of hundreds of intricate components, plastic, and wires, all in creamy white colors, resembling a high-tech futuristic product. The head's design includes detailed articulations, gears, and several plastic plates forming an exoskeleton. Many of the components feature tiny Japanese kanji inscriptions, resembling instructions on high-tech devices. The robot's structure also incorporates a myriad of cables and mini neon tubes with a pinkish glow. The head has high-tech protuberances and antennas, resembling the exoskeleton of insects or beetles, with multiple curved shapes and strange forms, all intricately detailed with numerous components. The robot, adorned with a sumptuous Japanese kimono, stands in a lush natural background. The scene captures the robot's intricate details, from antennas, high tech horns like insect ones, and protuberances  to the myriad components, evoking a sense of hyper-realism and complexity.
+
+# Prompt 10: 
+A stunning, high-resolution scene from a high-budget film captures a warrior clad in sumptuous, ornate armor inspired by Tolkien 's style. The intricately detailed armor reflects light brilliantly, showcasing elaborate engravings and gemstones that shimmer in the sun light. The warrior stands tall, exuding strength and determination, with a fierce gaze fixed on the horizon. 
+He is positioned in a breathtaking landscape, surrounded by majestic mountains and lush forests, bathed in warm, golden light. The scene is enhanced by meticulous color grading that high light s the vibrant colors of the environment, utilizing LUTs to establish a powerful, epic atmosphere. Cinematic filters give the image a polished, Hollywood look, while color correction balances the visual elements for maximum impact.
+The digital intermediate (DI) process ensures every detail shines, and film emulation techniques replicate the rich textures of analog film. A carefully curated color palette enriches the scene, while tone mapping adapts the range of colors and brightness for a stunning visual experience. Cinematic overlays subtly enhance the epic ambiance, capturing the essence of Peter Jackson's cinematic style in this breathtaking portrayal of valor and beauty.
+
+# Technical Terms: 
+
+Color grading : C'est le processus global d'altération et d'amélioration de la couleur d'une image en post-production.
+LUT (Look-Up Table) : Un outil utilisé en post-production pour transformer les couleurs et donner une ambiance spécifique à l'image.
+Cinematic filters : Des filtres appliqués en post-production pour donner un aspect cinématographique à l'image.
+Cinematic look : L'apparence générale qui donne à un film un aspect plus "hollywoodien" ou épique.
+Color correction : Le processus de modification des couleurs pour équilibrer et améliorer l'image.
+Digital intermediate (DI) : Le processus de manipulation de l'image numérique après le tournage.
+Film emulation : La technique qui consiste à imiter l'apparence du film analogique sur des images numériques.
+Cinematic overlay : Des éléments ajoutés par-dessus l'image pour améliorer l'ambiance visuelle.
+Color palette : La gamme de couleurs choisie pour donner une ambiance particulière au film.
